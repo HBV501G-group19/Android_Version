@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Draft-2.0</string>
+    <string name="user_name">USER_NAME</string>
+    <string name="user_name_label">USER_NAME_LABEL</string>
+    <string name="user_add_text">USER_ADD</string>
+    <string name="user_check_label">USER_CHECK</string>
+    <string name="user_list_title">USER_LIST_TITLE</string>
+</resources>
